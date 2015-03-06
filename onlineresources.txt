@@ -1,3 +1,5 @@
 http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/ (Basic RPi OS, all Assembly)
 
 http://wiki.osdev.org/Raspberry_Pi_Bare_Bones (Bare bones RPi OS, including kernel)
+
+http://www.valvers.com/open-software/raspberry-pi/step01-bare-metal-programming-in-cpt1/ (C coded RPi OS, this is the one we'll be using)
